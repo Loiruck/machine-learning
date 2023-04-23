@@ -1,4 +1,4 @@
-im
+ import numpy as np 
  def hinge_loss_single(feature_vector, label, theta, theta_0):
      """
      Finds the hinge loss on a single data point given specific classification
